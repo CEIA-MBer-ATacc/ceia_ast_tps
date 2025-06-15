@@ -1,8 +1,8 @@
 category_encoders
-pandas==2.2.3
-openpyxl
 matplotlib
 numpy
+openpyxl
+pandas==2.2.3
 seaborn
-scipy
 scikit-learn
+scipy
