@@ -6,3 +6,4 @@ pandas==2.2.3
 seaborn
 scikit-learn
 scipy
+prophet
